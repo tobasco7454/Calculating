@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F822C782203B9C5900F2A8FA /* SCroundingbuttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = F822C781203B9C5900F2A8FA /* SCroundingbuttons.swift */; };
 		F873B7D620325ACF00F95E79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F873B7D520325ACF00F95E79 /* AppDelegate.swift */; };
 		F873B7D820325ACF00F95E79 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F873B7D720325ACF00F95E79 /* ViewController.swift */; };
 		F873B7DB20325ACF00F95E79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F873B7D920325ACF00F95E79 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F822C781203B9C5900F2A8FA /* SCroundingbuttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCroundingbuttons.swift; sourceTree = "<group>"; };
 		F873B7D220325ACF00F95E79 /* Calculating.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculating.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F873B7D520325ACF00F95E79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F873B7D720325ACF00F95E79 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				F873B7DC20325ACF00F95E79 /* Assets.xcassets */,
 				F873B7DE20325ACF00F95E79 /* LaunchScreen.storyboard */,
 				F873B7E120325ACF00F95E79 /* Info.plist */,
+				F822C781203B9C5900F2A8FA /* SCroundingbuttons.swift */,
 			);
 			path = Calculating;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F822C782203B9C5900F2A8FA /* SCroundingbuttons.swift in Sources */,
 				F873B7D820325ACF00F95E79 /* ViewController.swift in Sources */,
 				F873B7D620325ACF00F95E79 /* AppDelegate.swift in Sources */,
 			);
